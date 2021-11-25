@@ -15,10 +15,10 @@ The bottom 5 schools were unchanged as none of the scores were altered for these
 ![Before](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/PyCitySchools%20-%20bottom%205%20schools.png)\
 ![After](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/Challenge%20-%20bottom%205%20schools.png)\
 The overall math and reading scores from each grade level were identical, except for the scores for the 9th graders at Thomas High School, which were expectedly null. The average math scores based on grade level before and after the refactoring, respectively, were as follows:\
-![Before](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/PyCitySchools%20-%20math_scores_by_grade.png)\
+![Before](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/PyCitySchools%20-%20math_scores_by_grade.png)
 ![After](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/Challenge%20-%20math_scores_by_grade.png)\
 The average reading scores based on the grade level before and after the refactoring, respectively, were as follows:\
-![Before](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/PyCitySchools%20-%20reading_scores_by_grade.png)\
+![Before](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/PyCitySchools%20-%20reading_scores_by_grade.png)
 ![After](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/Challenge%20-%20reading_scores_by_grade.png)\
 The scores by school spending per student were also unchanged before and after nullifying certain grades, as shown in the following DataFrames.\
 ![Before](https://github.com/carrotdip/School_District_Analysis/blob/main/Images/PyCitySchools%20-%20spending_summary_df.png)\
